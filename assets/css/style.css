@@ -20,6 +20,9 @@ background-color: #e67e22;
 .ui-color-menu-download {
         background-color: #525252;
     }
+    .bg-color-personal-info{
+        background-color: #f4f4f4;
+    }
 /*-----------------------------------------------------------Special padding/margins/text*/
 
 h1,h2, h3, h4{
